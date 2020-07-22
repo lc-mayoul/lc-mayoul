@@ -1,6 +1,7 @@
 ## Current position
 
-<img alt="Magento" title="Magento" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/magento.svg"/> Magento Developer at [lyracons](https://github.com/lyracons) <a href="https://www.lyracons.com/" target="_blank"><img title="Lyracons SA" alt="Lyracons SA" height="18px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/lyracons-logo.png" /></a>.
+<img alt="Magento" title="Magento" height="18px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/magento.svg"/> [Magento](https://github.com/magento) Developer at [lyracons](https://github.com/lyracons) <a href="https://www.lyracons.com/" target="_blank"><img title="Lyracons SA" alt="Lyracons SA" height="18px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/lyracons-logo.png" /></a>.
+
 
 ## Skills
 
@@ -15,7 +16,7 @@
   <img alt="Wordpress" title="Wordpress" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/wordpress.svg"/>
   <img alt="Drupal" title="Drupal" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/drupal.svg"/>
   <img alt="Joomla" title="Joomla" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/joomla.svg"/>
-  <img alt="cakephp" title="cakephp" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/cakephp.svg"/> 
+  <img alt="CakePHP" title="CakePHP" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/cakephp.svg"/> 
 + <img alt="javascript" title="javascript" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/javascript.svg"/>
   <img alt="jQuery" title="jQuery" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/jquery.svg"/>
   <img alt="Node JS" title="Node JS" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/node-dot-js.svg"/>
@@ -40,7 +41,7 @@
 + <img alt="Jenkins" title="Jenkins" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/jenkins.svg"/>
   <img alt="AWS" title="AWS" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/amazonaws.svg"/>
   <img alt="Google Cloud" title="Google Cloud" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/googlecloud.svg"/>
-  <img alt="" title="" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/azurepipelines.svg"/>
+  <img alt="Azure Pipelines" title="Azure Pipelines" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/azurepipelines.svg"/>
   <img alt="Ruby" title="Ruby" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/ruby.svg"/>
 + <img alt="Git" title="Git" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/git.svg"/>
   <img alt="Google UA" title="Google UA" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/googleanalytics.svg"/>
@@ -54,9 +55,10 @@
   <img alt="W3C" title="W3C" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/w3c.svg"/>
 + <img alt="Swagger" title="Swagger" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/swagger.svg"/>
   <img alt="Postman" title="Postman" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/postman.svg"/>
-  <img alt="" title="" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/r.svg"/>
-  <img alt="" title="" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/java.svg"/>
-  <img alt="" title="" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/android.svg"/>
+  <img alt="Graph QL" title="Graph QL" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/graphql.svg"/>
+  <img alt="R" title="R" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/r.svg"/>
+  <img alt="Java" title="Java" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/java.svg"/>
+  <img alt="Android" title="Android" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/android.svg"/>
   <img alt="Slack" title="Slack" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/slack.svg"/>
 + <img alt="linux" title="linux" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/linux.svg"/>
   <img alt="ubuntu" title="ubuntu" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/ubuntu.svg"/>
@@ -65,10 +67,15 @@
   <img alt="redhat" title="redhat" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/redhat.svg"/>
   <img alt="Suse" title="Suse" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/opensuse.svg"/>
   <img alt="xfce" title="xfce" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/xfce.svg"/>
-+ <img alt="JetBrains" title="JetBrains" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/jetbrains.svg"/>
++ <img alt="PHP Storm" title="PHP Storm" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/jetbrains.svg"/>
   <img alt="Eclipse" title="Eclipse" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/eclipseide.svg"/>
   <img alt="Netbeans" title="Netbeans" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/apachenetbeanside.svg"/>
   <img alt="Visual Code" title="Visual Code" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/visualstudiocode.svg"/>
-  <img alt="" title="" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/vim.svg"/>
+  <img alt="Vim" title="Vim" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/vim.svg"/>
 + RegExp - Rest/SOAP APIs - Unit testing - TDD - Agile Scrum Methodology
 + _etc_
+
+
+#### Credits
+
+Icons from [https://simpleicons.org/](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/)
