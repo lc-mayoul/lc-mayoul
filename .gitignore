@@ -5,3 +5,4 @@
 !img
 !img/*.jpg
 !img/*.png
+!img/*.svg
