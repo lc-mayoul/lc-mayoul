@@ -1,6 +1,6 @@
 ## Current position
 
-<img alt="Magento" title="Magento" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/magento.svg"/> Magento Developer at [lyracons](https://github.com/lyracons) <a href="https://www.lyracons.com/" target="_blank"><img title="Lyracons SA" alt="Lyracons SA" height="18px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/lyracons-logo.png" /></a>.
+<img alt="Magento" title="Magento" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/magento-logo.png"/> [Magento](https://github.com/magento) Developer at [lyracons](https://github.com/lyracons) <a href="https://www.lyracons.com/" target="_blank"><img title="Lyracons SA" alt="Lyracons SA" height="18px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/lyracons-logo.png" /></a>.
 
 ## Skills
 
@@ -15,7 +15,7 @@
   <img alt="Wordpress" title="Wordpress" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg"/>
   <img alt="Drupal" title="Drupal" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/drupal.svg"/>
   <img alt="Joomla" title="Joomla" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/joomla.svg"/>
-  <img alt="cakephp" title="cakephp" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cakephp.svg"/> 
+  <img alt="CakePHP" title="CakePHP" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cakephp.svg"/> 
 + <img alt="javascript" title="javascript" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
   <img alt="jQuery" title="jQuery" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg"/>
   <img alt="Node JS" title="Node JS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg"/>
@@ -40,7 +40,7 @@
 + <img alt="Jenkins" title="Jenkins" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg"/>
   <img alt="AWS" title="AWS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg"/>
   <img alt="Google Cloud" title="Google Cloud" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecloud.svg"/>
-  <img alt="" title="" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/azurepipelines.svg"/>
+  <img alt="Azure Pipelines" title="Azure Pipelines" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/azurepipelines.svg"/>
   <img alt="Ruby" title="Ruby" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ruby.svg"/>
 + <img alt="Git" title="Git" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg"/>
   <img alt="Google UA" title="Google UA" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleanalytics.svg"/>
@@ -54,9 +54,9 @@
   <img alt="W3C" title="W3C" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/w3c.svg"/>
 + <img alt="Swagger" title="Swagger" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swagger.svg"/>
   <img alt="Postman" title="Postman" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg"/>
-  <img alt="" title="" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg"/>
-  <img alt="" title="" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/>
-  <img alt="" title="" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg"/>
+  <img alt="R" title="R" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg"/>
+  <img alt="Java" title="Java" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/>
+  <img alt="Android" title="Android" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg"/>
   <img alt="Slack" title="Slack" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg"/>
 + <img alt="linux" title="linux" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg"/>
   <img alt="ubuntu" title="ubuntu" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ubuntu.svg"/>
@@ -69,6 +69,6 @@
   <img alt="Eclipse" title="Eclipse" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/eclipseide.svg"/>
   <img alt="Netbeans" title="Netbeans" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachenetbeanside.svg"/>
   <img alt="Visual Code" title="Visual Code" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg"/>
-  <img alt="" title="" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg"/>
+  <img alt="Vim" title="Vim" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg"/>
 + RegExp - Rest/SOAP APIs - Unit testing - TDD - Agile Scrum Methodology
 + _etc_
