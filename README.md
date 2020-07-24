@@ -19,6 +19,7 @@
   <img alt="CakePHP" title="CakePHP" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/cakephp.svg"/> 
 + <img alt="javascript" title="javascript" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/javascript.svg"/>
   <img alt="jQuery" title="jQuery" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/jquery.svg"/>
+  <img alt="Grunt" title="Grunt" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/grunt.svg"/>
   <img alt="Node JS" title="Node JS" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/node-dot-js.svg"/>
   <img alt="React JS" title="React JS" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/react.svg"/>
   <img alt="Angular" title="Angular" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/angular.svg"/>
@@ -73,9 +74,13 @@
   <img alt="Visual Code" title="Visual Code" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/visualstudiocode.svg"/>
   <img alt="Vim" title="Vim" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/vim.svg"/>
 + RegExp - Rest/SOAP APIs - Unit testing - TDD - Agile Scrum Methodology
++ <img alt="French" title="French" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/flag-fr.svg"/>
+  <img alt="Castellano" title="Castellano" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/flag-ar.svg"/>
+  <img alt="English" title="English" width="24px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/flag-us.svg"/>
 + _etc_
 
 
 #### Credits
 
 Icons from [https://simpleicons.org/](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/)
+Flags from [flag-icon-css](https://github.com/lipis/flag-icon-css) by [lipis](https://github.com/lipis)
