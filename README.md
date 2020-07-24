@@ -1,6 +1,6 @@
 ## Current position
 
-<img alt="Magento" title="Magento" height="18px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/magento-logo.png"/> [Magento](https://github.com/magento) Developer at [lyracons](https://github.com/lyracons) <a href="https://www.lyracons.com/" target="_blank"><img title="Lyracons SA" alt="Lyracons SA" height="18px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/lyracons-logo.png" /></a>.
+<a href="https://magento.com" target="_blank"><img alt="Magento" title="Magento" height="18px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/magento-logo.svg"/></a> [Magento](https://github.com/magento) Developer at [lyracons](https://github.com/lyracons) <a href="https://www.lyracons.com/" target="_blank"><img title="Lyracons SA" alt="Lyracons SA" height="18px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/lyracons-logo.png" /></a>.
 
 
 ## Skills
@@ -80,7 +80,27 @@
 + _etc_
 
 
+#### MarkDown Cheats
+
+    *italic*  /  _italic_
+    **bold**  /  __bold__
+    ***bold & italic***  /  _**bold & italic**_  /  ___etc___
+    +  /  -  /  * list item (unordered)
+    1. ordered list item
+    [link](href)
+    [`code`][label]    &    [label]: <href> "Link Title"
+    ![image-title](image-src)
+    > Blockquote
+
+
 #### Credits
 
-Icons from [https://simpleicons.org/](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/)
-Flags from [flag-icon-css](https://github.com/lipis/flag-icon-css) by [lipis](https://github.com/lipis)
+* Icons from [https://simpleicons.org/](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/)
+* Flags from [flag-icon-css](https://github.com/lipis/flag-icon-css) by [lipis](https://github.com/lipis)
+* MarkDown syntax cheats from [markdownguide.org](https://www.markdownguide.org/basic-syntax/)
+
+
+![](./img/magento-logo.svg)
+
+
+lalalal
