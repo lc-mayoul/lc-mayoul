@@ -1,6 +1,6 @@
 ## Current position
 
-<a href="https://magento.com" target="_blank"><img alt="Magento" title="Magento" height="19px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/magento-logo.svg"/></a> [Magento](https://github.com/magento) Developer at [lyracons](https://github.com/lyracons) <a href="https://www.lyracons.com/" target="_blank"><img title="Lyracons SA" alt="Lyracons SA" height="18px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/lyracons-logo.png" /></a>.
+<a href="https://magento.com" target="_blank"><img alt="Magento" title="Magento" height="20px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/magento-logo.svg"/></a> [Magento](https://github.com/magento) Developer at [lyracons](https://github.com/lyracons) <a href="https://www.lyracons.com/" target="_blank"><img title="Lyracons SA" alt="Lyracons SA" height="18px" src="https://raw.githubusercontent.com/lc-mayoul/lc-mayoul/master/img/lyracons-logo.png" /></a>.
 
 
 ## Skills
